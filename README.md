@@ -19,7 +19,9 @@ Pi-hole (Bloqueio de anúncios e rastreadores)
 
 #2. Baixe a imagem mais recente do Umbrel OS 
  - link https://umbrel.com/update-to-umbrelos-1-0
- - Para instalar a imagem no cartao SD utilizei o proprio software da Raspybarry que voce encontra nesse link: https://www.raspberrypi.com/software/
- - ![Instalação no Cartão SD](home-lab/img/tela_de _instalação_rasp.png)
+ - Para instalar a imagem no cartao SD utilizei o proprio software da Raspybarry que voce encontra nesse link: 
+   https://www.raspberrypi.com/software/
+ - ![Instalação no Cartão SD](home-lab/img/tela_instalacao_rasp.png)
+
 
  
